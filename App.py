@@ -1,9 +1,9 @@
 print("Hello World")
 
 
-def sayMyName(name, age):
+def sayMyName(name, age, adress):
    print("Hello:ddd " +name)
 
 
-sayMyName("Werner", 10)
-sayMyName("Tom", 10)
+sayMyName("Werner", 10, "KarlMann")
+sayMyName("Tom", 10, "KarlMann" )
